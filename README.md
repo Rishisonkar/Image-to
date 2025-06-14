@@ -28,7 +28,7 @@ A simple AI-powered tool that extracts text from images and converts it into nat
 
 1. Clone the repo:
 
-  git clone https://github.com/your-username/Image-to-Speech-GenAI-Tool-Using-LLM.git
+  git clone  https://github.com/Rishisonkar/Image-to-Speech-GenAI-Tool-Using-LLM-main-
 cd Image-to-Speech-GenAI-Tool-Using-LLM
 
 2. Install dependencies:
